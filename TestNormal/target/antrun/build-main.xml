@@ -1,0 +1,6 @@
+<project name="maven-antrun-" default="main"  >
+<target name="main">
+ <echo>I′m bound to validate phase.</echo>
+</target>
+
+</project>
