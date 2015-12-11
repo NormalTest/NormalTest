@@ -9,6 +9,7 @@
     <version>1.0-SNAPSHOT</version>
     <modules>
         <module>TestNormal</module>
+        <module>Distributed</module>
     </modules>
     <repositories>
         <!--  <repository>
