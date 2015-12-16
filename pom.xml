@@ -10,6 +10,7 @@
     <modules>
         <module>TestNormal</module>
         <module>Distributed</module>
+        <module>ValidatePerformace</module>
     </modules>
     <repositories>
         <!--  <repository>
